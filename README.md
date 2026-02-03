@@ -6,8 +6,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/braian-andrés-oquendo-durango-160701340)  
 📱 +57 302 2613326  
 
-Desarrollador Full Stack Junior con experiencia en proyectos web y móviles, enfocado en construir soluciones funcionales, escalables y bien estructuradas.  
-Trabajo con tecnologías modernas y utilizo agentes de inteligencia artificial como apoyo para acelerar desarrollo, testing y organización de proyectos.
+Desarrollador Full Stack Junior con experiencia en proyectos web y móviles, enfocado en crear soluciones funcionales y bien estructuradas.  
+Trabajo con tecnologías modernas y utilizo agentes de inteligencia artificial como apoyo para optimizar desarrollo, testing y organización de proyectos.
 
 ---
 
@@ -15,32 +15,32 @@ Trabajo con tecnologías modernas y utilizo agentes de inteligencia artificial c
 
 ### **Tracon** – Red Social Full Stack (Proyecto Personal)  
 *Abril 2025*  
-- Autenticación segura con PHP + MySQL (hashing y validaciones)  
+- Sistema de autenticación segura con PHP, hashing y validaciones  
 - CRUD completo de publicaciones, comentarios e interacciones  
-- Recuperación de contraseña y notificaciones de actividad  
-- Búsqueda dinámica con manipulación avanzada del DOM  
+- Recuperación de contraseñas y notificaciones de actividad  
+- Búsqueda dinámica con JavaScript y DOM  
 - Preferencias de usuario (modo oscuro/claro, sesiones persistentes)  
 
-**Tecnologías:** PHP, JavaScript, MySQL, HTML, CSS, Bootstrap  
+**Tecnologías:** PHP, MySQL, JavaScript, Bootstrap  
 
 ---
 
 ### **Phantesis** – Plataforma de Historias Interactivas  
 *Febrero – Octubre 2024*  
-- Diseño de base de datos relacional normalizada  
-- Editor de contenido con protección XSS e inyección SQL  
-- Filtros dinámicos y categorización avanzada  
-- Optimización de consultas SQL  
+- Base de datos relacional normalizada  
+- Editor de contenido seguro (XSS, SQL Injection)  
+- Sistema de filtros dinámicos  
+- Optimización de consultas  
 
 **Tecnologías:** PHP, MySQL, JavaScript  
 
 ---
 
-### **Apps móviles en Flutter (prácticas y proyectos personales)**  
-- Interfaces responsivas multiplataforma  
+### **Apps móviles con Flutter (proyectos prácticos)**  
+- Interfaces multiplataforma responsivas  
 - Consumo de APIs REST  
 - Manejo de estados básico  
-- Integración con backend propio  
+- Conexión con backend propio  
 
 **Tecnologías:** Flutter, Dart  
 
@@ -71,64 +71,64 @@ I.E Héctor Abad Gómez – 2024
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Bases de Datos & DevOps
+### Bases de Datos & Versionado
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🤖 Uso de Inteligencia Artificial
+## 🤖 Inteligencia Artificial en desarrollo
 
-- Implementación de agentes IA para:
-  - Generación y validación de código
-  - Automatización de tareas repetitivas
-  - Apoyo en debugging y refactorización
-  - Organización de arquitectura básica de proyectos  
-
-- Enfoque en productividad sin perder comprensión técnica del código
+- Uso de agentes IA para:
+  - Generación y mejora de código  
+  - Debugging asistido  
+  - Automatización de tareas  
+  - Apoyo en estructura de proyectos  
 
 ---
 
-## 🧱 Conocimientos de Arquitectura (nivel junior)
+## 🧱 Bases de Arquitectura (nivel junior)
 
-- Separación frontend / backend  
 - APIs REST  
-- Estructuración por capas (controladores, servicios, datos)  
-- Buenas prácticas de seguridad básica  
-- Normalización de bases de datos  
+- Separación frontend/backend  
+- Arquitectura por capas  
+- Seguridad básica web  
+- Modelado de datos  
 
 ---
 
 ## 🔧 Competencias
 
-### Técnicas
-- Desarrollo Full Stack Web  
-- Desarrollo móvil con Flutter  
+**Técnicas**
+- Desarrollo web full stack  
+- Desarrollo móvil Flutter  
+- Backend con PHP y Laravel (básico-intermedio)  
 - Consumo de APIs  
-- Diseño de bases de datos relacionales  
-- Control de versiones con Git  
+- Bases de datos relacionales  
 
-### Blandas
-- Aprendizaje rápido  
-- Resolución de problemas  
-- Trabajo en equipo  
-- Responsabilidad técnica  
+**Blandas**
+- Aprendizaje continuo  
+- Pensamiento lógico  
+- Trabajo colaborativo  
+- Responsabilidad  
 
 ---
 
 ## 🌍 Idiomas
+
 - Español: Nativo  
 - Inglés: Básico técnico  
 
 ---
 
-### 📌 Perfil actual
-Desarrollador **Junior con bases sólidas**, experiencia real en proyectos completos y en constante crecimiento hacia arquitectura y buenas prácticas profesionales.
+### 📌 Nivel actual
+Desarrollador Junior con proyectos reales, conocimientos modernos y enfoque en crecimiento profesional.
 
 ---
 
-⭐ Siempre aprendiendo — siempre construyendo
+⭐ Construyendo soluciones todos los días
